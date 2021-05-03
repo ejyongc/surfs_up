@@ -10,7 +10,7 @@ In this analysis we analyze weather data to provide our client with temperature 
 
   ![image](https://github.com/ejyongc/surfs_up/blob/main/Screenshots/June%20Boxplot.png)
 
-* The second result from this analysis shows the historic lowest, highest an average temperatures for the month of December. At first *minimum temperature* of 56 degrees can be seen as a downfall to the sustainability of the business during the month of December. Once we run a statistical analysis and plot that data we can see that those low temperatures are suspected to be anomalies (outliers) on our data that represents a low risk to a Surf shop & ice cream business. 
+* The second result from this analysis shows the historic lowest, highest, adn average temperatures for the month of December. At first *minimum temperature* of 56 degrees can be seen as a downfall to the sustainability of the business during the month of December. Once we run a statistical analysis and plot that data we can see that those low temperatures are suspected to be anomalies (outliers) on our data that represents a low risk to a Surf shop & ice cream business. 
 
   ![image](https://github.com/ejyongc/surfs_up/blob/main/Screenshots/December%20Boxplot.png)
 
