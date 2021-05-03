@@ -6,7 +6,7 @@ In this analysis we analyze weather data to provide our client with temperature 
 
 ## Results: 
 
-* The first results that we obtained from this analysis are the historic temperatures for the month of June. In the graph below we can see an *average* of 74.94 degrees with a *min* of 64 degrees and a *max* of 85 degrees. We can start determining that the warm weather conditions during the month of June are ideal to help drive business at surf and ice cream store.
+* The first results that we obtained from this analysis are the historic temperatures for the month of June. In the graph below we can see an *average* of 74.94 degrees with a *min* of 64 degrees and a *max* of 85 degrees. We can start determining that the warm weather conditions during the month of June are ideal to help drive business at a surf and ice cream store.
 
   ![image](https://github.com/ejyongc/surfs_up/blob/main/Screenshots/June%20Boxplot.png)
 
