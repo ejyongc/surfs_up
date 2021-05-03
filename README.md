@@ -8,11 +8,11 @@ In this analysis we analyze weather data to provide our client with temperature 
 
 * The first results that we obtained from this analysis are the historic temperatures for the month of June. In the graph below we can see an *average* of 74.94 degrees with a *min* of 64 degrees and a *max* of 85 degrees. We can start determining that the warm weather conditions during the month of June are ideal to help drive business at surf and ice cream store.
 
-![image](https://github.com/ejyongc/surfs_up/blob/main/Screenshots/June%20Boxplot.png)
+  ![image](https://github.com/ejyongc/surfs_up/blob/main/Screenshots/June%20Boxplot.png)
 
 * The second result from this analysis shows the historic lowest, highest an average temperatures for the month of December. At first *minimum temperature* of 56 degrees can be seen as a downfall to the sustainability of the business during the month of December. Once we run a statistical analysis and plot that data we can see that those low temperatures are suspected to be anomalies (outliers) on our data that represents a low risk to a Surf shop & ice cream business. 
 
-![image](https://github.com/ejyongc/surfs_up/blob/main/Screenshots/December%20Boxplot.png)
+  ![image](https://github.com/ejyongc/surfs_up/blob/main/Screenshots/December%20Boxplot.png)
 
 * The third result we closely observe in this analysis is the overall fluctuation of the weather between what could be considered the peaks of two different seasons. Being 6 months apart from each other, the average temperatures during these two months only fluctuated -3.9 degrees. 
 
